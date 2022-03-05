@@ -1,0 +1,208 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Montserrat-Black', sans-serif;
+    line-height: 1.5;
+}
+
+h2, h3, h4 {
+    font-weight: 700
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+p {
+    color: #666666;
+    font-weight: 600;
+}
+
+
+
+.container-fluid {
+    padding: 7% 14%;
+}
+
+.colored-section {
+    background-color: #FF4C68;
+    color: white; 
+}
+
+.white-section {
+    background-color: white;
+}
+
+
+
+
+#title.container-fluid {
+    padding: 3% 14%;
+}
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.nav-link {
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 1.2rem;
+}
+
+.header {
+    width: 500px;
+    text-align: left;
+}
+
+.big-heading {
+    font-size: 3rem; 
+    font-weight: 800; 
+    text-align: justify;
+    width: 430px;
+}
+
+.down-btn {
+    margin: 8% 5% 5% 0;
+}
+
+.title-img {
+    width: 300px;
+    transform: rotate(25deg);
+    position: absolute;
+    left: 55%;
+}
+
+
+
+#features {
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box {
+   padding: 3%;
+}
+
+.icon {
+    color: #EF8172;
+    margin-bottom: 1rem;    
+}
+
+.icon:hover {
+    color: #FF4C68; 
+}
+
+
+
+#testimonials, #press {
+    background-color: #eb7565; 
+    color: white;
+}
+
+.testimonial-image {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 3% 16% 5% 16%;
+}
+
+.press-logo {
+    width: 12%;
+    margin: 40px 20px;
+}
+
+.biz-logo {
+    width: 15%;
+}
+
+
+
+.card {
+    width: 290px;
+    margin: 1.5%;
+}
+
+.price-col {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.card-subtitle {
+    padding-bottom: 6%;
+}
+
+.price-btn {
+    margin: 5% 20% 5% 20%;
+}
+
+.social-icon {
+    margin: 20px 7px;
+}
+
+
+
+
+/* Media Elements added here to make the page responsive. */
+
+@media (max-width: 1064px) {
+    
+    .header {
+        width: 100%;
+    }
+    .title-img {
+        transform: rotate(0);
+        position: static;
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1358px) {
+
+    .card {
+        margin: auto;
+    }
+}
+
+@media (max-width: 1225px) {
+
+    .card {
+        width: 245px;
+    }
+    .mid-card {
+        width: 230px;
+    }
+}
+
+@media (max-width: 1016px) {
+    
+    .card {
+        width: 360px;
+        margin-top: 2%;      
+    }
+}
+
+
+
+
+
+
+
+
