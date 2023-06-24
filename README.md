@@ -1,4 +1,4 @@
-# TinDog Bootstrap Project
+# TinDog
 Modern landing page of a dating website for Dogs, created using HTML, CSS & Bootstrap. 
 
 
