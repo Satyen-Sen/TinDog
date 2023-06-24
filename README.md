@@ -1,22 +1,21 @@
-#TinDog Bootstrap Project
+# TinDog Bootstrap Project
+Modern landing page of a dating website for Dogs, created using HTML, CSS & Bootstrap. 
 
 
-Resouces
-
-1) https://fonts.google.com/specimen/Montserrat 
-
-2) https://fonts.google.com/specimen/Ubuntu
-
-3) https://fontawesome.com/icons?d=gallery&q=apple
+## Original Inspirations
+- https://tinder.com/ 
+- https://tindog.co/
 
 
+### Resouces Usedin the project
+- https://fonts.google.com/specimen/Montserrat
+- https://fonts.google.com/specimen/Ubuntu
+- https://fontawesome.com/icons?d=gallery&q=apple
 
 
-Original Inspirations 
 
-1) https://tinder.com/ 
 
-2) https://tindog.co/
+
 
 
 
