@@ -1,8 +1,11 @@
 # TinDog
 Modern landing page of a dating website for Dogs, created using HTML, CSS & Bootstrap. 
 
+Check Output at - https://satyen-sen.github.io/TinDog/
 
-## Original Inspirations
+***
+
+### Original Inspirations
 - https://tinder.com/ 
 - https://tindog.co/
 
@@ -11,17 +14,8 @@ Modern landing page of a dating website for Dogs, created using HTML, CSS & Boot
 - https://fonts.google.com/specimen/Montserrat
 - https://fonts.google.com/specimen/Ubuntu
 - https://fontawesome.com/icons?d=gallery&q=apple
+- Media Elements have been used to make this web page responsive.
 
 
-
-
-
-
-
-
-Media Elements are used to make this web page responsive.
-
-
-Check Output at   https://satyen-sen.github.io/TinDog/
 
 
